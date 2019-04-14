@@ -24,7 +24,9 @@ var $jspAbout = (function() {
   var $dlg=$(DOM),
       $btnOk = $dlg.find('.btn-ok'),
       $btnClose = $dlg.find('.close-btn');
-
+      //拖拽
+      //$('body').append($dlg);
+      //$dlg.drag
   function show() {
     $('body').append($dlg);
 
