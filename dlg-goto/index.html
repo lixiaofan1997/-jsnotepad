@@ -16,8 +16,12 @@
 $(function(){
   var $btn=$('.btn');
   $btn.click(function(){
-    $dlgGoto.show();
-  })
+    $dlgGoto.init({
+      curLines:1,
+      totalLines:5,
+      gotoHandler:function(e){console.log('go to btn clicked!and goto',e,'lines');}
+    });
+  });
 })
 </script>
 </body>
