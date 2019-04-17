@@ -56,14 +56,9 @@
 
 .notepad-dlg-about .main .slogan {
   color: #0077c8;
-//  font-size: 4em;
-  //line-height: 100px;
   text-align: center;
 }
 
-//.notepad-dlg-about .main .app-logo {
- // margin: 20px 10px;
-//}
 
 .notepad-dlg-about .main .info {
   display: inline-block;
