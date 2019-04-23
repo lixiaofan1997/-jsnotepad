@@ -85,5 +85,8 @@
   font-size:2em;
 }
 .app-logo{
-  margin:10px auto;
+  margin:4px auto;
+  width:45px;
+  position:relative;
+  top:-35px;
 }

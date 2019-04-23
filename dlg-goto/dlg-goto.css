@@ -34,17 +34,19 @@ body,html {
 
 .notepad-goto-dlg .dialogbox .titlebar .title{
   position:absolute;
-  left:5px;
-  top:2px;
+  left:8px;
+  top:4px;
+  font-size:10px;
 }
 
 .notepad-goto-dlg .dialogbox .titlebar .btn-close{
   cursor:pointer;
-  height:30px;
+  height:26px;
   position:absolute;
   right:0px;
   text-align:center;
   top:0px;
+  padding-top:5px;
   width:30px;
 }
 
@@ -70,6 +72,7 @@ body,html {
   height:29px;
   margin-left:12px;
   width:265px;
+  margin-top:10px;
 }
 
 .notepad-goto-dlg .dialogbox .content .btn-goto{

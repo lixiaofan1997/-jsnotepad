@@ -10,7 +10,7 @@ var $jspAbout = (function() {
             + '<div class="main">'
               + '<h1 class="slogan">JSNotepad</h1>'
               + '<hr>'
-              + '<img class="app-logo" src="../../images/notepad-icon-32.png" alt="JSNotepad">'
+              + '<img class="app-logo" src="https://raw.githubusercontent.com/wangding/jsnotepad/feat-d-goto/images/notepad-icon-32.png"  alt="JSNotepad">'
               + '<div class="info">'
                 + '<p>作者：李晓帆</p>'
                 + '<p>QQ：773515092</p>'
